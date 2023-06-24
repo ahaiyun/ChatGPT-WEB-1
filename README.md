@@ -14,11 +14,6 @@
 web演示视频
 https://www.bilibili.com/video/BV1EX4y1C7jE/?spm_id_from=333.999.0.0&vd_source=247eccf88822f409670040957c2f29a9
 
-请作者喝肥皂快乐水 😘 
-![微信图片_20230414223811](https://user-images.githubusercontent.com/87460202/232085684-b17cb802-2e24-4614-ae06-aea823145310.jpg)
-
-
-
 [GitHub作者主页](https://github.com/dulaiduwang003/ChatGPT_wechat)
 
 ## Linux准备环境 (必须)
